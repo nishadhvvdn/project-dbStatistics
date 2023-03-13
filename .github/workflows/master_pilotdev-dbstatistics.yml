@@ -41,4 +41,4 @@ jobs:
           app-name: 'pilotdev-dbStatistics'
           slot-name: 'Production'
           package: ${{ env.AZURE_FUNCTIONAPP_PACKAGE_PATH }}
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_B08B74F026254F89BF3983D3790E2533 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_6EC2DEC00B654291B9C724CCF2CE95B5 }}
